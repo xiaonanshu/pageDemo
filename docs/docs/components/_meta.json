@@ -1,0 +1,36 @@
+[{
+    "type": "file",
+    "name": "mds/Button",
+    "label": "Button"
+},
+{
+    "type": "file",
+    "name": "mds/Flex",
+    "label": "Flex"
+},
+{
+    "type": "file",
+    "name": "mds/Switch",
+    "label": "Switch"
+},
+{
+    "type": "file",
+    "name": "mds/Pagination",
+    "label": "Pagination"
+},
+{
+    "type": "file",
+    "name": "mds/Cascader",
+    "label": "Cascader"
+},
+{
+    "type": "file",
+    "name": "mds/Input",
+    "label": "Input"
+},
+{
+    "type": "file",
+    "name": "mds/Form",
+    "label": "Form"
+}
+]
