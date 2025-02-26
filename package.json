@@ -1,0 +1,17 @@
+{
+  "name": "pagedemo",
+  "version": "1.0.0",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "npm --prefix docs run dev",
+    "build": "npm --prefix docs run build",
+    "preview": "npm --prefix docs run preview",
+    "install": "npm --prefix docs install"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
